@@ -9,11 +9,13 @@ Yinhui Yu,Xu Sun,Qing Cheng
 - [2023/8] This code will be released soon.
 
 
-## 🌐 Usage
+
 
 ### ⚙ Network Architecture
 
-Our CDDFuse is implemented in ``net.py``.
+<img src="image//architecture.png" width="90%" align=center />
+
+## 🌐 Usage
 
 ### 🏊 Training
 **1. Virtual Environment**
